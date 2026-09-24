@@ -1,5 +1,7 @@
 # 🧭 GraphSAGE – ein Gewicht für mich, ein anderes für meine Nachbarn
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-graphsage-demo.streamlit.app/)**
+
 Viertes Stück der **Graph-Neural-Network-Linie** der "Konzepte"-Reihe im Portfolio von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning – und Nachfolger von
 [gcn-demo](https://sebastianhanisch-gcn-demo.streamlit.app/) (GCN → GraphSAGE, GAT → GATv2, GIN → Graph Transformer; GIN und Graph Transformer sind noch nicht gebaut).
 
